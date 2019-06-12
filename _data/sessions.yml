@@ -12,7 +12,7 @@
   description: ""  
 -
   id: 308
-  title: "Morning Break"
+  title: "Break"
   place: "Hall"
   service: true
   description: "The best time to talk with speakers and attendees"
@@ -23,8 +23,8 @@
   service: true
 -
   id: 001
-  title: "Introduction to Machine Learning: Tutorial"
-  description: ""
+  title: "AI for Social Good: Foundations, Opportunities and Challenges"
+  description: " "
   subtype: Tutorial
   speakers: []
   language: en
@@ -32,7 +32,7 @@
   video: ""
 -
   id: 002
-  title: "Machine Learning Lab -1"
+  title: "Python programming and Scientific computation"
   description: ""
   subtype: Lab
   speakers: []
@@ -42,7 +42,7 @@
   video: ""
 -
   id: 003
-  title: "Foundations of Deep Learning"
+  title: "Data Science Foundations"
   description: ""
   subtype: Tutorial
   speakers: []
@@ -51,7 +51,7 @@
   presentation: ""
 -
   id: 004
-  title: "Deep Learning Lab-1"
+  title: "Data collection, wrangling and processing"
   description: ""
   subtype: Lab
   speakers: []
@@ -61,7 +61,7 @@
   video: ""
 -
   id: 005
-  title: "Convolutional (CNN) and Recurrent Neural Network (RNN)"
+  title: "Effective Analysis and Visualizations for Communication"
   description: ""
   subtype: Tutorial
   speakers: []
@@ -71,7 +71,7 @@
   video: ""
 -  
   id: 006
-  title: "Deep Learning Lab-2"
+  title: "Effective Exploratory Data Analysis and Visualization"
   description: ""
   subtype: Lab
   speakers: []
@@ -81,7 +81,7 @@
   video: ""
 -  
   id: 007
-  title: "Unsupervised Machine Learning"
+  title: "Machine learning fundamentals"
   description: ""
   subtype: Lab
   speakers: []
@@ -90,8 +90,8 @@
   presentation: ""
   video: ""
 -
-  id: 010
-  title: "Machine Learning Lab -2"
+  id: 0010
+  title: "Data representation and feature engineering"
   description: ""
   subtype: Lab
   speakers: []
@@ -101,7 +101,7 @@
   video: ""
 -
   id: 011
-  title: "Machine Learning for Health"
+  title: "Supervised Machine learning (Regression)"
   description: ""
   subtype: Tutorial
   speakers: []
@@ -111,7 +111,7 @@
   video: ""
 -
   id: 012
-  title: "ML4Health: Lab"
+  title: "Supervised Machine learning (Classification)"
   description: ""
   subtype: Lab
   speakers: []
@@ -121,7 +121,7 @@
   video: ""
 -
   id: 013
-  title: "Introduction to Natural Language Processing"
+  title: "Machine learning model evaluation and improvement"
   description: ""
   subtype: Lab
   speakers: []
@@ -131,7 +131,7 @@
   video: ""
 -
   id: 014
-  title: "Natural Language Processing Lab"
+  title: "End to end Machine Learning"
   description: ""
   subtype: Lab
   speakers: []
@@ -141,7 +141,7 @@
   video: ""
 -
   id: 015
-  title: "ML for Time Series Analysis"
+  title: "Strategies for Successfully Machine learning projects"
   description: ""
   subtype: Tutorial
   speakers: []
@@ -151,7 +151,7 @@
   video: ""
 -
   id: 016
-  title: "ML for Time Series Analysis: Lab"
+  title: "Unsupervised machine learning (Clustering)"
   description: ""
   subtype: Tutorial
   speakers: []
@@ -159,52 +159,11 @@
   complexity: "Intermediate" 
   presentation: ""
   video: ""
+
 
 -
   id: 017
-  title: "Non-Intrusive Load Monitoring"
-  description: ""
-  subtype: Tutorial
-  speakers: []
-  language: en
-  complexity: "Intermediate" 
-  presentation: ""
-  video: ""
--
-  id: 020
-  title: "Machine Learning Research in Developing Countries"
-  description: ""
-  subtype: Presentation
-  speakers: []
-  language: en
-  complexity: "" 
-  presentation: ""
-  video: ""
--
-  id: 021
-  title: "Closing Remarks"
-  description: ""
-  subtype: Presentation
-  speakers: []
-  language: en
-  complexity: "" 
-  presentation: ""
-  video: ""
-
--
-  id: 022
-  title: "Machine Learning for Computer Vision"
-  description: ""
-  subtype: Tutorial
-  speakers: []
-  language: en
-  complexity: "Intermediate" 
-  presentation: ""
-  video: ""
-
--
-  id: 023
-  title: "Machine Learning for Computer Vision: Lab"
+  title: " Machine learning hackathon "
   description: ""
   subtype: Lab
   speakers: []

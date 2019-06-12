@@ -118,8 +118,8 @@ venueTitle: "Sayansi Bulding, COSTECH, Dar es Salaam 4302, Tanzania"
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Whats up?"
-twitterHashTag: "pythontz"
-twitterFeed: "http://https://twitter.com/pythontz/favoritesjson.php?c=10&cache_interval=8000"
+twitterHashTag: "parrotai"
+twitterFeed: ""
 
 
 # Partners Block
@@ -178,19 +178,19 @@ ticketsOffers:
 # Footer
 socialLinks:
  #- {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=pythontz", icon: "twitter"}
- - {link: "https://www.facebook.com/PythonTz", icon: "facebook"}
+ - {link: "https://twitter.com/intent/user?screen_name=parrotai", icon: "twitter"}
+ - {link: "https://www.facebook.com/Parrotai", icon: "facebook"}
  
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://pythontz.github.io/", text: "pythontz.github.io/"}
+   - {link: "http://parrotai.co.tz/", text: "Parrotai"}
    
  -
   title: "Contacts"
   links:
-   - {link: "mailto:info@pythontz.or.tz", text: "info@pythontz.or.tz"}
+   - {link: "mailto:info@parrotai.co.tz", text: "info@parrotai.co.tz"}
  -
   title: "FAQ"
   links:
