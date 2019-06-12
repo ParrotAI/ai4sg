@@ -26,16 +26,16 @@
   title: "AI for Social Good: Foundations, Opportunities and Challenges"
   description: " "
   subtype: Tutorial
-  speakers: []
+  speakers: [2]
   language: en
   complexity: "Intermediate"
   video: ""
 -
   id: 002
-  title: "Python programming and Scientific computation"
+  title: "Python programming basics and its application for scientific computation"
   description: ""
   subtype: Lab
-  speakers: []
+  speakers: [4,3]
   language: en
   complexity: "Intermediate" 
   presentation: ""
@@ -45,7 +45,7 @@
   title: "Data Science Foundations"
   description: ""
   subtype: Tutorial
-  speakers: []
+  speakers: [2,3]
   language: en
   complexity: "Intermediate" 
   presentation: ""
@@ -54,7 +54,7 @@
   title: "Data collection, wrangling and processing"
   description: ""
   subtype: Lab
-  speakers: []
+  speakers: [4,5]
   language: en
   complexity: "Intermediate"
   presentation: ""
@@ -64,7 +64,7 @@
   title: "Effective Analysis and Visualizations for Communication"
   description: ""
   subtype: Tutorial
-  speakers: []
+  speakers: [2,3]
   language: en
   complexity: "Intermediate"
   presentation: ""
@@ -74,7 +74,7 @@
   title: "Effective Exploratory Data Analysis and Visualization"
   description: ""
   subtype: Lab
-  speakers: []
+  speakers: [1,2,3]
   language: en
   complexity: "Intermediate"
   presentation: ""
@@ -84,7 +84,7 @@
   title: "Machine learning fundamentals"
   description: ""
   subtype: Lab
-  speakers: []
+  speakers: [3,5]
   language: en
   complexity: "Intermediate"
   presentation: ""
@@ -94,7 +94,7 @@
   title: "Data representation and feature engineering"
   description: ""
   subtype: Lab
-  speakers: []
+  speakers: [5,3]
   language: en
   complexity: "Intermediate" 
   presentation: ""
@@ -104,7 +104,7 @@
   title: "Supervised Machine learning (Regression)"
   description: ""
   subtype: Tutorial
-  speakers: []
+  speakers: [5,3]
   language: en
   complexity: "Intermediate" 
   presentation: ""
@@ -114,7 +114,7 @@
   title: "Supervised Machine learning (Classification)"
   description: ""
   subtype: Lab
-  speakers: []
+  speakers: [3,5]
   language: en
   complexity: "Intermediate" 
   presentation: ""
@@ -124,7 +124,7 @@
   title: "Machine learning model evaluation and improvement"
   description: ""
   subtype: Lab
-  speakers: []
+  speakers: [1,3]
   language: en
   complexity: "Intermediate" 
   presentation: ""
@@ -144,7 +144,7 @@
   title: "Strategies for Successfully Machine learning projects"
   description: ""
   subtype: Tutorial
-  speakers: []
+  speakers: [1,3]
   language: en
   complexity: "Intermediate" 
   presentation: ""
@@ -154,7 +154,7 @@
   title: "Unsupervised machine learning (Clustering)"
   description: ""
   subtype: Tutorial
-  speakers: []
+  speakers: [1,3,4]
   language: en
   complexity: "Intermediate" 
   presentation: ""
@@ -166,7 +166,7 @@
   title: " Machine learning hackathon "
   description: ""
   subtype: Lab
-  speakers: []
+  speakers: [1,4,5]
   language: en
   complexity: "Intermediate" 
   presentation: ""

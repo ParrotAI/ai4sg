@@ -55,12 +55,18 @@
     }
     - {
         startTime: "1330",
-        endTime: "1500",
+        endTime: "1530",
         sessionIds: [006]
     }
     - {
-        startTime: "1500",
-        endTime: "1630",
+        startTime: "1530",
+        endTime: "1600",
+        sessionIds: [307]
+    }
+
+    - {
+        startTime: "1600",
+        endTime: "1730",
         sessionIds: [006]
     }
 - 

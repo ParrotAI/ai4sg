@@ -1,6 +1,6 @@
 - 
-  id: 3
-  name: "Dawid"
+  id: 1
+  name: "Davis"
   surname: "David"
   company: "Parrotai"
   title: "Data Scientist & CE"
@@ -10,7 +10,7 @@
   social: 
     - {name: "", link: ""}
 - 
-  id: 4
+  id: 2
   name: "Tupokigwe"
   surname: "Isagah"
   company: "Parrotai & Mzumbe University"
@@ -23,7 +23,7 @@
     - {name: "twitter", link: ""}
     - {name: "github", link: ""}
 - 
-  id: 5
+  id: 3
   name: "Anthony"
   surname: "Faustine"
   company: "IDLab, imec"
@@ -34,7 +34,7 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/mherych"}
 - 
-  id: 6
+  id: 4
   name: "Elia"
   surname: "Masesa"
   company: "Parrotai"
@@ -47,7 +47,7 @@
     - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 - 
-  id: 6
+  id: 5
   name: "Apina"
   surname: "Fredirick"
   company: "Parrotai"
