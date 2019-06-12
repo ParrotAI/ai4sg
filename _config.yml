@@ -14,7 +14,7 @@ title: "AI4SG Bootcamp"
 email: "info@parrotai.co.tz"
 description: "The first AI for Social Good(AI4SG) Bootcamp in Tanzania"
 baseurl: "/ai4sg"
-url: "https://pythontz.github.io"
+url: "https://parrotai.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: ""
@@ -36,8 +36,8 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "https://docs.google.com/forms/d/e/1FAIpQLSeuLx_i7EoNBzqe46hfqllVxge54ln5U12_LT86O7iPqnvKQQ/viewform?usp=sf_link#start=openform"
+c4pUrl: ""
+c4sponsorsUrl: ""
 
 
 # Navigation
@@ -46,13 +46,13 @@ navigationLinks:
 #- {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
+#- {permalink: "/team/", text: "Team"}
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeHbM0u9uXBTrK9Vfp0SmMXFa1E_OguWV_tBUgw7fkV_rRHTA/viewform?usp=sf_link", text: "Become a speaker"}
+ - {link: "", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeHbM0u9uXBTrK9Vfp0SmMXFa1E_OguWV_tBUgw7fkV_rRHTA/viewform?usp=sf_link", text: "Become a speaker"}
+ - {link: "", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -61,7 +61,7 @@ eventDate: "2019"
 typeoutTextValues: '"AI", "ML", "Data science", "SDGs", "Parrotai"'
 typeoutFallback: ""
 heroButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdNZA2TdRDYTDaqCaaSvpf8c2vzaQ3YfdzU56mFx3sJaQZuUQ/viewform?usp=sf_link", text: "Registration"}
+ - {link: "", text: "Registration"}
  - {permalink: "/#tickets", text: "Schedule"}
 
 # About Block
@@ -112,8 +112,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "Sayansi Bulding, COSTECH, Dar es Salaam 4302, Tanzania"
+#venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -124,8 +124,8 @@ twitterFeed: "http://https://twitter.com/pythontz/favoritesjson.php?c=10&cache_i
 
 # Partners Block
 organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+#partnersTitle: "Partners"
+#partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
