@@ -25,7 +25,7 @@ organizerName: "parrotai"
 organizerAlternateName: "parrotai"
 organizerDescription: "A leading AI startup in Tanzania focusing on the development and deployment of data driven application and system using Artificial Intelligence(AI). We are at the forefront of bringing AI in solving critical community problems."
 organizerEmail: "info@parrotai.co.tz"
-organizerLogo: "/img/seo/pythontz.png"
+organizerLogo: "/img/seo/logo.png"
 organizerLink: "http://parrotai.co.tz/home"
 
 # Head
@@ -56,8 +56,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "AI4SG"
-eventDate: "2019"
+heroTitle: "AI4SG "
+eventDate: "@parrotai"
 typeoutTextValues: '"AI", "ML", "Data science", "SDGs", "Parrotai"'
 typeoutFallback: ""
 heroButtons:
