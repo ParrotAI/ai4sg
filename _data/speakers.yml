@@ -3,9 +3,9 @@
   name: "Davis"
   surname: "David"
   company: "Parrotai"
-  title: "Data Scientist & CE"
+  title: "Data Scientist & CEO"
   bio: ""
-  thumbnailUrl: DawidOstrowski.jpg
+  thumbnailUrl: Davis.png
   rockstar: true
   social: 
     - {name: "", link: ""}
@@ -16,7 +16,7 @@
   company: "Parrotai & Mzumbe University"
   title: "Director (Parrotai), Lecturer (Mzumbe University)"
   bio: ''
-  thumbnailUrl: DawidOstrowski.jpg
+  thumbnailUrl: tupo.jpg
   rockstar: true
   social: 
    
@@ -26,10 +26,12 @@
   id: 3
   name: "Anthony"
   surname: "Faustine"
-  company: "IDLab, imec"
-  title: "PhD machine learning researcher"
-  bio: ""
-  thumbnailUrl: MateuszHerych.jpg
+  company: "Parrotai & IDLab, imec"
+  title: "PhD machine learning researcher, University of Ghent(Belgium)"
+  bio: "Faustine is a PhD machine learning researcher at IDLab research group of Ghent University since October 2017, advised by Tom Dhaene and Dirk Deschrijver.
+  His research interest lie in the application of machine intelligence for computational sustainability with a focus on statistical-learning, deep-learning, bayesian inference and signal processing.
+  He is currently investigating robust machine learning methods for energy-disaggregation."
+  thumbnailUrl: Tony.jpg
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/mherych"}
@@ -40,7 +42,7 @@
   company: "Parrotai"
   title: "Data scientist"
   bio: ""
-  thumbnailUrl: RomanMazur.jpg
+  thumbnailUrl: Eliya.png
   rockstar: true
   
   social: 
@@ -53,7 +55,7 @@
   company: "Parrotai"
   title: "Data scientist"
   bio: ""
-  thumbnailUrl: RomanMazur.jpg
+  thumbnailUrl: Fred.png
   rockstar: true
   
   social: 
