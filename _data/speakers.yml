@@ -35,29 +35,3 @@
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/mherych"}
-- 
-  id: 4
-  name: "Elia"
-  surname: "Masesa"
-  company: "Parrotai"
-  title: "Data scientist"
-  bio: ""
-  thumbnailUrl: Eliya.png
-  rockstar: true
-  
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
-- 
-  id: 5
-  name: "Apina"
-  surname: "Fredirick"
-  company: "Parrotai"
-  title: "Data scientist"
-  bio: ""
-  thumbnailUrl: Fred.png
-  rockstar: true
-  
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
