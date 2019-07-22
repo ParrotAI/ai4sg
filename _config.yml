@@ -61,8 +61,8 @@ eventDate: "@parrotai"
 typeoutTextValues: '"AI", "ML", "Data science", "SDGs", "Parrotai"'
 typeoutFallback: ""
 heroButtons:
- - {link: "", text: "Registration"}
- - {permalink: "/#tickets", text: "Schedule"}
+ - {link: "https://timetickets.co.tz/artificial-intelligence-for-social-good-bootcamp", text: "Registration"}
+ #- {permalink: "/#tickets", text: "Schedule"}
 
 # About Block
 aboutTitle: "AI4SG Bootcamp"
@@ -131,7 +131,7 @@ organizersTitle: "Organizers"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: ""
-subscribeInfo: "Registration will be open around end of January. Stay tuned!"
+subscribeInfo: "Registration will be open around end of July. Stay tuned!"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
