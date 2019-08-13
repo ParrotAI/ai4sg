@@ -4,6 +4,77 @@
   place: "Hall"
   service: true
   description: "The best time to talk with speakers and attendees"
+
+-
+  id: 500
+  title: "Program Feedback and Evaluation"
+  place: "Hall"
+  service: true
+  description: ""
+
+-
+  id: 501
+  title: "Closing Remarks"
+  place: "Hall"
+  service: true
+  description: ""
+-
+  id: 400
+  title: "The explores of Artificial Intelligence (AI) technology as an aid in mental health and wellness"
+  speakers: [7]
+  subtype: Keynote
+  description: ""
+-
+  id: 401
+  title: "AI in industry challenge and opportunities"
+  speakers: [5]
+  subtype: Keynote
+  description: ""
+
+-
+  id: 402
+  title: "AI for Bioinformatics"
+  speakers: [6]
+  subtype: Keynote
+  description: ""
+
+-
+  id: 405
+  title: "Intro to TanzanAi Lab Community"
+  speakers: [9]
+  subtype: Keynote
+  description: ""
+
+-
+  id: 403
+  title: "Human Centre Design"
+  speakers: [8]
+  subtype: Keynote
+  description: ""
+-
+  id: 404
+  title: "Deploying Machine Learning Projects into Production at Scale"
+  speakers: [10]
+  subtype: Keynote
+  description: ""
+-
+  id: 407
+  title: "Intro to TanzanAi Lab Community"
+  speakers: [9]
+  subtype: Keynote
+  description: ""
+-
+  id: 408
+  title: "Deploying Machine Learning Projects into Production at Scale"
+  speakers: [10]
+  subtype: Keynote
+  description: ""
+-
+  id: 406
+  title: "Introduction to Zindi and ML hackathon"
+  speakers: [1]
+  subtype: Keynote
+  description: ""
 -
   id: 310
   title: "Group Work"
@@ -26,7 +97,7 @@
   title: "AI for Social Good: Foundations, Opportunities and Challenges"
   description: " "
   subtype: Tutorial
-  speakers: [2]
+  speakers: [2,3]
   language: en
   complexity: "Intermediate"
   video: ""
@@ -35,7 +106,7 @@
   title: "Python programming basics and its application for scientific computation"
   description: ""
   subtype: Lab
-  speakers: [4,3]
+  speakers: [4,3,1]
   language: en
   complexity: "Intermediate" 
   presentation: ""
@@ -54,27 +125,27 @@
   title: "Data collection, wrangling and processing"
   description: ""
   subtype: Lab
-  speakers: [4,5]
+  speakers: [1,3]
   language: en
   complexity: "Intermediate"
   presentation: ""
   video: ""
 -
   id: 005
-  title: "Effective Analysis and Visualizations for Communication"
+  title: "Data-Driven Decision Making -I"
   description: ""
   subtype: Tutorial
-  speakers: [2,3]
+  speakers: [1,4]
   language: en
   complexity: "Intermediate"
   presentation: ""
   video: ""
 -  
   id: 006
-  title: "Effective Exploratory Data Analysis and Visualization"
+  title: "Data-Driven Decision Making -II"
   description: ""
   subtype: Lab
-  speakers: [1,2,3]
+  speakers: [1,4]
   language: en
   complexity: "Intermediate"
   presentation: ""
@@ -84,7 +155,7 @@
   title: "Machine learning fundamentals"
   description: ""
   subtype: Lab
-  speakers: [3,5]
+  speakers: [3]
   language: en
   complexity: "Intermediate"
   presentation: ""
@@ -94,7 +165,7 @@
   title: "Data representation and feature engineering"
   description: ""
   subtype: Lab
-  speakers: [5,3]
+  speakers: [1]
   language: en
   complexity: "Intermediate" 
   presentation: ""
@@ -104,37 +175,61 @@
   title: "Supervised Machine learning (Regression)"
   description: ""
   subtype: Tutorial
-  speakers: [5,3]
+  speakers: [4]
   language: en
   complexity: "Intermediate" 
   presentation: ""
   video: ""
+
+
+
 -
   id: 012
-  title: "Supervised Machine learning (Classification)"
+  title: "Supervised Machine learning (Classification)-I"
   description: ""
   subtype: Lab
-  speakers: [3,5]
+  speakers: [1]
+  language: en
+  complexity: "Intermediate" 
+  presentation: ""
+  video: ""
+
+-
+  id: 0121
+  title: "Supervised Machine learning (Classification)-II"
+  description: ""
+  subtype: Lab
+  speakers: [1]
   language: en
   complexity: "Intermediate" 
   presentation: ""
   video: ""
 -
   id: 013
-  title: "Machine learning model evaluation and improvement"
+  title: "Machine learning model evaluation and improvement - I"
   description: ""
   subtype: Lab
-  speakers: [1,3]
+  speakers: [1,4]
+  language: en
+  complexity: "Intermediate" 
+  presentation: ""
+  video: ""
+-
+  id: 0131
+  title: "Machine learning model evaluation and improvement - I"
+  description: ""
+  subtype: Lab
+  speakers: [1,4]
   language: en
   complexity: "Intermediate" 
   presentation: ""
   video: ""
 -
   id: 014
-  title: "End to end Machine Learning"
+  title: "The Myth and Ethics of AI systems"
   description: ""
-  subtype: Lab
-  speakers: []
+  subtype: Tutorial
+  speakers: [2]
   language: en
   complexity: "Intermediate" 
   presentation: ""
@@ -166,7 +261,7 @@
   title: " Machine learning hackathon "
   description: ""
   subtype: Lab
-  speakers: [1,4,5]
+  speakers: [1,4]
   language: en
   complexity: "Intermediate" 
   presentation: ""

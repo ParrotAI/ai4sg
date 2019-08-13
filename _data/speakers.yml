@@ -35,3 +35,108 @@
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/mherych"}
+- 
+  id: 4
+  name: "Fredrick"
+  surname: "Apina"
+  company: "Parrotai"
+  title: "Machine learning engineer"
+  bio: ''
+  thumbnailUrl: Fred.png
+  rockstar: true
+  social: 
+   
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+
+- 
+  id: 5
+  name: "Abdallah"
+  surname: "Mashashi"
+  company: "Millicom (Tigo)"
+  title: "MFS Pricing and Segmentation Manager"
+  bio: ''
+  thumbnailUrl: mashashi.jpeg
+  rockstar: true
+  social: 
+   
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+
+
+- 
+  id: 6
+  name: "Dina"
+  surname: "Machumve"
+  company: "NM-AIST"
+  title: "MFS Pricing and Segmentation Manager"
+  bio: 'Dina Machuve is a Lecturer and Researcher at the Nelson Mandela African Institution of Science and Technology (NM-AIST) in Arusha, Tanzania. She holds a PhD in Information and Communication Science and Engineering from NM-AIST in 2016, and a MS in Electrical Engineering from Tennessee Technological University (TTU), USA in 2008 and BSc Electrical Engineering degree from University of Dar es Salaam (UDSM) in 2001. 
+
+She co-organizes the Data Science Africa (DSA), an organization that runs an annual data science and machine learning summer school and workshop in Africa. She is a member of a research group on Mechanism Design for Social Good (MDSG). Her research interests are data science, bioinformatics, agriculture informatics on food value chains and STEM education in schools.'
+  thumbnailUrl: machumve.jpg
+  rockstar: true
+  social: 
+   
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+
+
+- 
+  id: 7
+  name: "Bonface"
+  surname: "Witaba"
+  company: "Centre for Youth Empowerment & Leadership (CYEL)-Kenya"
+  title: "Research, Training & Innovations Manager"
+  bio: 'Bonface Witaba is multi-disciplinary ICT professional, with a background that includes experience working in:
+digital inclusion, Internet governance, local content development, and policy research. He is the pioneer of ICANNWiki Swahili, a non-profit encyclopedic website that seeks to translate ICANN and Internet Governance related content into Swahili . Bonface is also a writer with Geneva Internet Platform (GIP) Digital Watch observatory, a Swiss based Internet Governance and Digital Policy Magazine.'
+  thumbnailUrl: waitaba.jpg
+  rockstar: true
+  social: 
+   
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+
+
+- 
+  id: 8
+  name: "Emmanuel"
+  surname: "Senzighe"
+  company: "Sahara Ventures"
+  title: "Sahara Accelerator Lead"
+  bio: ''
+  thumbnailUrl: emma.jpeg
+  rockstar: true
+  social: 
+   
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+
+
+- 
+  id: 9
+  name: "Essa"
+  surname: "MohamedAli"
+  company: "TanzanAi Lab Community"
+  title: "Community Manager"
+  bio: ''
+  thumbnailUrl: issah.jpeg
+  rockstar: true
+  social: 
+   
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+
+
+- 
+  id: 10
+  name: "Kelvin"
+  surname: "Kiwango"
+  company: "Vodacom"
+  title: "Digital and Service Manager"
+  bio: ''
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+   
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
