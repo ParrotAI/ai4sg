@@ -26,10 +26,10 @@
   description: ""
 -
   id: 401
-  title: "AI in industry challenge and opportunities"
+  title: "Machine learning in industry: Challenge and Opportunities"
   speakers: [5]
   subtype: Keynote
-  description: ""
+  description: "How Machine Learning at its best practice help different industries to improve the work efficiency and increase productivity. Focus will be on Telecommunication industry in Tanzania and East Africa"
 
 -
   id: 402
@@ -49,12 +49,6 @@
   id: 403
   title: "Human Centre Design"
   speakers: [8]
-  subtype: Keynote
-  description: ""
--
-  id: 404
-  title: "Deploying Machine Learning Projects into Production at Scale"
-  speakers: [10]
   subtype: Keynote
   description: ""
 -
@@ -97,7 +91,7 @@
   title: "AI for Social Good: Foundations, Opportunities and Challenges"
   description: " "
   subtype: Tutorial
-  speakers: [2,3]
+  speakers: [2]
   language: en
   complexity: "Intermediate"
   video: ""
@@ -106,7 +100,7 @@
   title: "Python programming basics and its application for scientific computation"
   description: ""
   subtype: Lab
-  speakers: [4,3,1]
+  speakers: [4,3,11]
   language: en
   complexity: "Intermediate" 
   presentation: ""
@@ -116,7 +110,7 @@
   title: "Data Science Foundations"
   description: ""
   subtype: Tutorial
-  speakers: [2,3]
+  speakers: [2,11]
   language: en
   complexity: "Intermediate" 
   presentation: ""
@@ -125,7 +119,7 @@
   title: "Data collection, wrangling and processing"
   description: ""
   subtype: Lab
-  speakers: [1,3]
+  speakers: [11]
   language: en
   complexity: "Intermediate"
   presentation: ""
@@ -135,7 +129,7 @@
   title: "Data-Driven Decision Making -I"
   description: ""
   subtype: Tutorial
-  speakers: [1,4]
+  speakers: [1,4,2]
   language: en
   complexity: "Intermediate"
   presentation: ""
@@ -145,7 +139,7 @@
   title: "Data-Driven Decision Making -II"
   description: ""
   subtype: Lab
-  speakers: [1,4]
+  speakers: [1,4,11]
   language: en
   complexity: "Intermediate"
   presentation: ""

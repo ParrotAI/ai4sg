@@ -4,7 +4,8 @@
   surname: "David"
   company: "Parrotai"
   title: "Data Scientist & CEO"
-  bio: ""
+  bio: "Davis David is the CEO & Data scientist at ParrotAI with a multidisciplinary background in computer science. He is passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Big Data. Davis is the co-organizer and facilitator of different AI meetups, workshops, and events that aim to build a community of Data Scientists and machine learning practitioners in Tanzania. He is also the ambassador of ZindiAfrica in Tanzania.
+"
   thumbnailUrl: Davis.png
   rockstar: true
   social: 
@@ -15,7 +16,8 @@
   surname: "Isagah"
   company: "Parrotai & Mzumbe University"
   title: "Director (Parrotai), Lecturer (Mzumbe University)"
-  bio: ''
+  bio: 'Tupokigwe Isagah (Ph.D.) is a lecturer at Mzumbe University and Director at ParrotAI. She has a background in Information System design and management. Dr. Isagah is experienced in planning and designing digital technologies for public sectors (GovTech). Her previous research focused on the design and implementation of mobile applications for delivering public services in developing countries.  Her current research interest is on the application of Artificial intelligence for enterprise architecture and  Governance. Currently, Dr. Isagah is researching the implementation of Artificial Intelligence in Africa.enabling requirements such as human resource, national strategies and policies, and ethical issues for AI transformation in Africa. 
+'
   thumbnailUrl: tupo.jpg
   rockstar: true
   social: 
@@ -30,8 +32,8 @@
   title: "PhD machine learning researcher, University of Ghent(Belgium)"
   bio: "Faustine is a PhD machine learning researcher at IDLab research group of Ghent University since October 2017, advised by Tom Dhaene and Dirk Deschrijver.
   His research interest lie in the application of machine intelligence for computational sustainability with a focus on statistical-learning, deep-learning, bayesian inference and signal processing.
-  He is currently investigating robust machine learning methods for energy-disaggregation."
-  thumbnailUrl: Tony.jpg
+  He is currently investigating robust machine learning methods for industrial application"
+  thumbnailUrl: tony.jpg
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/mherych"}
@@ -134,7 +136,21 @@ digital inclusion, Internet governance, local content development, and policy re
   company: "Vodacom"
   title: "Digital and Service Manager"
   bio: ''
-  thumbnailUrl: 
+  thumbnailUrl: kiwango.jpeg
+  rockstar: true
+  social: 
+   
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+
+- 
+  id: 11
+  name: "Martha"
+  surname: "Shaka"
+  company: "Parrotai, UDOM"
+  title: "Computer vision researcher Parrotai"
+  bio: ''
+  thumbnailUrl: martha.jpeg
   rockstar: true
   social: 
    
