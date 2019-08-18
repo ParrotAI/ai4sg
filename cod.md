@@ -1,20 +1,50 @@
 ---
 layout: post
-title: Don't be a jerk policy
+title: AI4SG  BOOTCAMP - FAQs
 permalink: /cod/
 isStaticPost: true
 ---
 
-__This "Don't be a jerk" policy is a shortened, more casual version of the longer Code of Conduct policy. [Read full version](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick).__
+AI4SG  BOOTCAMP - FAQs
+
+1. Can someone who works full time in an organization participate in the Bootcamp? <br/>
+**Answer**:
+<br/>
+*Yes, we considered this when we were planning AI4SG schedule so as to ensure that we do not or less interrupt your daily routine. The Bootcamp will be conducted on the weekend (Friday and Saturday) for three weeks*.
+
+2. What is the time schedule of the AI4SG Bootcamp?<br/>
+**Answer**:
+<br/>
+*The Bootcamp will take place in the following dates <br/>
+- 20th Sept 2019 - Friday (1300-1900hrs)
+- 21th Sept 2019 -Saturday (0800-1800hrs)
+- 27th Sept 2019 - Friday (1300-1900hrs)
+- 26th Sept 2019 -Saturday (0800-1800hrs)
+- 04th Oct 2019 - Friday (1300-1900hrs)
+- 05th Oct 2019 - Saturday (0800-1800hrs)
+
+3. Is there any practical support that I can get from the team during the working days of the three weeks?<br/>
+**Answer**:<br/>
+*Yes, Parrot AI is dedicated to support you. We want you to become Machine learning Practitioners. Therefore, our experts will be ready to give you online support as you do practices during weekday*.
+
+4. What experience I must have in order to attend the Bootcamp?<br/>
+**Answer**:<br/>
+*Only basic programming skills is all you need to attend AI4SG Bootcamp.*
+
+5. What tools/equipment do I need to prepare before the Bootcamp?<br/>
+**Answer**:<br/>
+*You need to have a laptop in order to practice during the sessions. Other software and installation guidelines will be provided during the AI4SG Bootcamp.*
+
+6. Will there be speakers from other enterprises?<br/>
+**Answer**:<br/>
+*Yes, we have arranged experienced speakers for you to make sure that you learn from the practitioners and researchers of AI and ML.*
+
+7. Will I get a certificate after the Bootcamp?<br/>
+**Answer**:<br/>
+*Yes, you will get a certificate at the end of the AI4SG Bootcamp.*
 
 
-GDG Lviv prides itself on being an open, respectful, and inclusive community. That means jerky behavior isn’t allowed at GDG meetings. Because we know that it’s not obvious to everyone, here’s a reminder of the things we don’t allow: jokes or offensive comments about sex/sexuality/race/religion/nationality/body size, showing porn in public, touching people uninvited, or continuing to interact with someone after they’ve asked you to stop. Continuous jerky behavior may result in getting expelled from the meeting or GDG Chapter.
-
-If someone is bothering you, please tell GDG Organizers immediately and they will take care of it. We want to maintain GDG DevFest’s awesomeness.
 
 
-######Contacts:
-
-- Vitaliy Zasadnyy, +38 063 863 20 62, [vitaliy.zasadnyy@gdg.org.ua](mailto:vitaliy.zasadnyy@gdg.org.ua)
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
